@@ -1,0 +1,409 @@
+{
+  "clientes" : {
+    "-MA-i3JSvqRApNaqqZX3" : {
+      "nombre_apellido" : "Juana rirez",
+      "num_documento" : "97548",
+      "pais" : "Paraguay",
+      "telefono" : "967840",
+     "ciudad" : ""
+    },
+    "-MA1vv-mw8OWcaBUBtvC" : {
+      "nombre_apellido" : "Elvio Martínez",
+      "num_documento" : "4866409",
+      "pais" : "Paraguay",
+      "telefono" : "985680990",
+     "ciudad" : ""
+    },
+    "-MA1w0H7kBhnuml3GU6v" : {
+      "nombre_apellido" : "Fabián Gómez",
+      "num_documento" : "12297349",
+      "pais" : "Paraguay",
+      "telefono" : "985700171",
+     "ciudad" : ""
+    },
+    "-MA1xvbcRsMmHEcPbDZl" : {
+      "nombre_apellido" : "Paola mori",
+      "num_documento" : "5124071",
+      "pais" : "Paraguay",
+      "telefono" : "985707300",
+     "ciudad" : ""
+    },
+    "-MA1y-Fe7gxpD9VQTr6x" : {
+      "nombre_apellido" : "Oro tang",
+      "num_documento" : "2078674",
+      "pais" : "Paraguay",
+      "telefono" : "985707300",
+     "ciudad" : ""
+    },
+    "-MA1yBbLyNhlb2gJDINS" : {
+      "nombre_apellido" : "Graciela shmidke",
+      "num_documento" : "1525770",
+      "pais" : "Paraguay",
+      "telefono" : "983636148",
+     "ciudad" : ""
+    },
+    "-MA1yGicd4QkbTgmiFSx" : {
+      "nombre_apellido" : "Erika gerke",
+      "num_documento" : "1525767",
+      "pais" : "Paraguay",
+      "telefono" : "983636148",
+     "ciudad" : ""
+    },
+    "-MA1yZ6GldnwjIBMa5rO" : {
+      "nombre_apellido" : "Neithan Teloken",
+      "num_documento" : "5031224",
+      "pais" : "Paraguay",
+      "telefono" : "994850312",
+     "ciudad" : ""
+    },
+    "-MA1yebONimZbreoNkvl" : {
+      "nombre_apellido" : "Ismael Benítez",
+      "num_documento" : "3789724",
+      "pais" : "Paraguay",
+      "telefono" : "994897165",
+     "ciudad" : ""
+    },
+    "-MA1yjjUWNRyM-9klCsi" : {
+      "nombre_apellido" : "Néstor garai",
+      "num_documento" : "2473704",
+      "pais" : "Paraguay",
+      "telefono" : "975606830",
+     "ciudad" : ""
+    },
+    "-MA2-RQO86qjdh6GGgjV" : {
+      "nombre_apellido" : "Gabriel Sandoval",
+      "num_documento" : "2999860",
+      "pais" : "Paraguay",
+      "telefono" : "981601813",
+     "ciudad" : ""
+    },
+    "-MA2-YJpJbbm01JOPheI" : {
+      "nombre_apellido" : "Fernando enciso",
+      "num_documento" : "3186812",
+      "pais" : "Paraguay",
+      "telefono" : "991211920",
+     "ciudad" : ""
+    },
+    "-MA204TUCCDn8jCc8gcv" : {
+      "nombre_apellido" : "Ingrid loblein",
+      "num_documento" : "3976111",
+      "pais" : "Paraguay",
+      "telefono" : "895735891",
+     "ciudad" : ""
+    },
+    "-MA20Dr376Krym5y_Qnu" : {
+      "nombre_apellido" : "Pablo carreras ",
+      "num_documento" : "2992616",
+      "pais" : "Paraguay",
+      "telefono" : "981625708",
+     "ciudad" : ""
+    },
+    "-MA20OdU8_d6vZzfhyH2" : {
+      "nombre_apellido" : "Manuela mussmann",
+      "num_documento" : "7312952",
+      "pais" : "Paraguay",
+      "telefono" : "985703412",
+     "ciudad" : ""
+    },
+    "-MA20XTA6z_277hxaFzR" : {
+      "nombre_apellido" : "Mauricio medina",
+      "num_documento" : "2617050",
+      "pais" : "Paraguay",
+      "telefono" : "985771662",
+     "ciudad" : ""
+    },
+    "-MA20h8MwlNPUMb-xgfO" : {
+      "nombre_apellido" : "Sintia Ojeda",
+      "num_documento" : "3442040",
+      "pais" : "Paraguay",
+      "telefono" : "985155886",
+     "ciudad" : ""
+    },
+    "-MA21ef4W_xziEvR8zo1" : {
+      "nombre_apellido" : "Jesús María romero",
+      "num_documento" : "3524553",
+      "pais" : "Paraguay",
+      "telefono" : "984735540",
+     "ciudad" : ""
+    },
+    "-MA21rCVjqsIKV_GE1dw" : {
+      "nombre_apellido" : "Carlos trompetta",
+      "num_documento" : "3696602",
+      "pais" : "Paraguay",
+      "telefono" : "985739712",
+     "ciudad" : ""
+    },
+    "-MA22-PGLDfguzzE5mjy" : {
+      "nombre_apellido" : "Feliz Javier",
+      "num_documento" : "5621643",
+      "pais" : "Paraguay",
+      "telefono" : "985823879",
+     "ciudad" : ""
+    },
+    "-MA225lrXAmefcusY0JA" : {
+      "nombre_apellido" : "Raul Leiva",
+      "num_documento" : "7878167",
+      "pais" : "Paraguay",
+      "telefono" : "985774404",
+     "ciudad" : ""
+    },
+    "-MA22R4dmkWv45QZxdNF" : {
+      "nombre_apellido" : "Gladis baez",
+      "num_documento" : "3421862",
+      "pais" : "Paraguay",
+      "telefono" : "983433433",
+     "ciudad" : ""
+    },
+    "-MA22VfGQyS7aZImhAoR" : {
+      "nombre_apellido" : "Héctor Zarate ",
+      "num_documento" : "",
+      "pais" : "Paraguay",
+      "telefono" : "985433131",
+     "ciudad" : ""
+    },
+    "-MA22bj8xsKB2rjLIXk2" : {
+      "nombre_apellido" : "Noeila Aguilera",
+      "num_documento" : "",
+      "pais" : "Paraguay",
+      "telefono" : "986253271",
+     "ciudad" : ""
+    },
+    "-MA22mBPaqTYjpVTMkIp" : {
+      "nombre_apellido" : "Teobaldo zotelo",
+      "num_documento" : "1157497",
+      "pais" : "Paraguay",
+      "telefono" : "985791055",
+     "ciudad" : ""
+    },
+    "-MA22uuPmktVpPmHXkz4" : {
+      "nombre_apellido" : "Rubén narvaez",
+      "num_documento" : "1227415",
+      "pais" : "Paraguay",
+      "telefono" : "9817041874",
+     "ciudad" : ""
+    },
+    "-MA2359TJGm8PrsDRivc" : {
+      "nombre_apellido" : "Sergio Kuzli",
+      "num_documento" : "2996575",
+      "pais" : "Paraguay",
+      "telefono" : "985112733",
+     "ciudad" : ""
+    },
+    "-MA23I8Dc_dw6FB8ldtW" : {
+      "nombre_apellido" : "Mariela rios",
+      "num_documento" : "4302131",
+      "pais" : "Paraguay",
+      "telefono" : "985294160",
+     "ciudad" : ""
+    },
+    "-MA23bkOcuHXopUmcq4v" : {
+      "nombre_apellido" : "Xiomara Nuñez",
+      "num_documento" : "5907365",
+      "pais" : "Paraguay",
+      "telefono" : "985583300",
+     "ciudad" : ""
+    },
+    "-MA23eQc-r5Cp2fa-6Bp" : {
+      "nombre_apellido" : "Verónica Stark",
+      "num_documento" : "4012579",
+      "pais" : "Paraguay",
+      "telefono" : "985583300",
+     "ciudad" : ""
+    },
+    "-MA23ffIaVBRe7GPKV5H" : {
+      "nombre_apellido" : "Fernanda Nuñez",
+      "num_documento" : "6691781",
+      "pais" : "Paraguay",
+      "telefono" : "985583300",
+     "ciudad" : ""
+    },
+    "-MA23zxLLWuLIsAva5-M" : {
+      "nombre_apellido" : "Fernanda amaral",
+      "num_documento" : "6323305",
+      "pais" : "Paraguay",
+      "telefono" : "985110774",
+     "ciudad" : ""
+    },
+    "-MA245q9SHzzGW0quht0" : {
+      "nombre_apellido" : "María irade amaral",
+      "num_documento" : "6323308",
+      "pais" : "Paraguay",
+      "telefono" : "985110774",
+     "ciudad" : ""
+    },
+    "-MA2480vMdpzNdTCvPAs" : {
+      "nombre_apellido" : "Julia Manuela  amaral",
+      "num_documento" : "632330",
+      "pais" : "Paraguay",
+      "telefono" : "985110774",
+     "ciudad" : ""
+    },
+    "-MA24OXPty_YBvxUKXKN" : {
+      "nombre_apellido" : "Rocío palacios",
+      "num_documento" : "4604751",
+      "pais" : "Paraguay",
+      "telefono" : "991757076",
+     "ciudad" : ""
+    },
+    "-MA24XQG_G89aSfoFheW" : {
+      "nombre_apellido" : "Angelica Benítez",
+      "num_documento" : "5149691",
+      "pais" : "Paraguay",
+      "telefono" : "983772059",
+     "ciudad" : ""
+    },
+    "-MA24oa5ccPVqyf_VR0Q" : {
+      "nombre_apellido" : "Cathi Resoalbe",
+      "num_documento" : "8468982",
+      "pais" : "Paraguay",
+      "telefono" : "994854105",
+     "ciudad" : ""
+    },
+    "-MA26VeV8K7ZYh-un_qT" : {
+      "nombre_apellido" : "Jorge valiente",
+      "num_documento" : "2359990",
+      "pais" : "Paraguay",
+      "telefono" : "985880015",
+     "ciudad" : ""
+    },
+    "-MA27jNK4AP_f0OQhqnw" : {
+      "nombre_apellido" : "Evelin michelon",
+      "num_documento" : "3599687",
+      "pais" : "Paraguay",
+      "telefono" : "985703476",
+     "ciudad" : ""
+    },
+    "-MA27qxMZjs9sZQhQl-U" : {
+      "nombre_apellido" : "Gloria delgado",
+      "num_documento" : "3183223",
+      "pais" : "Paraguay",
+      "telefono" : "986582011",
+     "ciudad" : ""
+    },
+    "-MA286zwb7q994dGzZiz" : {
+      "nombre_apellido" : "Mario Perchuk",
+      "num_documento" : "5836137",
+      "pais" : "Paraguay",
+      "telefono" : "985788882",
+     "ciudad" : ""
+    },
+    "-MA28dJnaPHmVv73GyFV" : {
+      "nombre_apellido" : "Adriana vega",
+      "num_documento" : "6944163",
+      "pais" : "Paraguay",
+      "telefono" : "981147645",
+     "ciudad" : ""
+    },
+    "-MA28tCxNzrt4flsoP7l" : {
+      "nombre_apellido" : "Agustina simi",
+      "num_documento" : "6944114",
+      "pais" : "Paraguay",
+      "telefono" : "981147645",
+     "ciudad" : ""
+    },
+    "-MA28yt05zhyNoKTG04R" : {
+      "nombre_apellido" : "Martina simi",
+      "num_documento" : "6964115",
+      "pais" : "Paraguay",
+      "telefono" : "981147645",
+     "ciudad" : ""
+    },
+    "-MA294sWAHJapCCpRKB3" : {
+      "nombre_apellido" : "Marcelo simi",
+      "num_documento" : "6944150",
+      "pais" : "Paraguay",
+      "telefono" : "981147645",
+     "ciudad" : ""
+    },
+    "-MA29GU8lrqGh2uq9pWg" : {
+      "nombre_apellido" : "Katia Magali Gómez",
+      "num_documento" : "5756740",
+      "pais" : "Paraguay",
+      "telefono" : "985327187",
+     "ciudad" : ""
+    },
+    "-MA29MpTqOMoXP0OVBQt" : {
+      "nombre_apellido" : "Cinthia Gómez",
+      "num_documento" : "4283350",
+      "pais" : "Paraguay",
+      "telefono" : "985327187",
+     "ciudad" : ""
+    },
+    "-MA29PVNjsLOll5ooLQ7" : {
+      "nombre_apellido" : "Natali Gómez",
+      "num_documento" : "7890760",
+      "pais" : "Paraguay",
+      "telefono" : "985327187",
+     "ciudad" : ""
+    },
+    "-MA29XFuR0LRKnGrCwYO" : {
+      "nombre_apellido" : "Joel Siani",
+      "num_documento" : "2363242",
+      "pais" : "Paraguay",
+      "telefono" : "971198460",
+     "ciudad" : ""
+    },
+    "-MA29eEMEEmAklfUMs1O" : {
+      "nombre_apellido" : "Luis Benítez",
+      "num_documento" : "3826079",
+      "pais" : "Paraguay",
+      "telefono" : "984933472",
+     "ciudad" : ""
+    },
+    "-MA2AZDMhwzqRcphunQA" : {
+      "nombre_apellido" : "Gustavo candia",
+      "num_documento" : "1448658",
+      "pais" : "Paraguay",
+      "telefono" : "995970760",
+     "ciudad" : ""
+    },
+    "-MA2AgeDuvPQlcDz33GB" : {
+      "nombre_apellido" : "Lorena candia",
+      "num_documento" : "46444821",
+      "pais" : "Paraguay",
+      "telefono" : "986123864",
+     "ciudad" : ""
+    },
+    "-MA2Cfjx0A4lDvCRPQrH" : {
+      "nombre_apellido" : "Cynthia Meza ",
+      "num_documento" : "4686899",
+      "pais" : "Paraguay",
+      "telefono" : "982116495",
+     "ciudad" : ""
+    },
+    "-MA2CnCdNozX3Jfq9eQW" : {
+      "nombre_apellido" : "Nelson meza",
+      "num_documento" : "5911246",
+      "pais" : "Paraguay",
+      "telefono" : "986296176",
+     "ciudad" : ""
+    },
+    "-MA2CwQcoMpctsucBXlU" : {
+      "nombre_apellido" : "Wilian delvalle",
+      "num_documento" : "3996216",
+      "pais" : "Paraguay",
+      "telefono" : "983507319",
+     "ciudad" : ""
+    },
+    "-MA2GA8_0AlIqKGZvTsC" : {
+      "nombre_apellido" : "Gustavo Silveira ",
+      "num_documento" : "7207060",
+      "pais" : "Paraguay",
+      "telefono" : "983507573",
+     "ciudad" : ""
+    },
+    "-MA2GkoXyW_bL5g3Fp7x" : {
+      "nombre_apellido" : "Ariana Bolla",
+      "num_documento" : "2079678",
+      "pais" : "Paraguay",
+      "telefono" : "994357698",
+     "ciudad" : ""
+    },
+    "-MA2HAQ0_96HNGXi5KU5" : {
+      "nombre_apellido" : "Paulo pazette",
+      "num_documento" : "439307",
+      "pais" : "Brasil",
+      "telefono" : "985837878"
+    }
+  }
+}
