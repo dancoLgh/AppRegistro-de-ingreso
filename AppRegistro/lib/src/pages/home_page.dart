@@ -36,8 +36,6 @@ final scaffoldKey       = GlobalKey<ScaffoldState>();
       });
     });
     super.initState();
-    
-    
   }
 
 
@@ -54,7 +52,7 @@ final scaffoldKey       = GlobalKey<ScaffoldState>();
         child:Column(
 
           children:<Widget>[
-             _checkBox(),
+            _checkBox(),
             _searchBar(),
             Expanded(
              child: RefreshIndicator(
@@ -105,7 +103,7 @@ final scaffoldKey       = GlobalKey<ScaffoldState>();
               children: <Widget>[
 
                 FlatButton(
-                  child: Text('Registrar entrda'),
+                  child: Text('Registrar entrada'),
                   color: Colors.deepPurple,
                   textColor: Colors.deepPurple[50],
                   onPressed:(){registrar(index);
@@ -126,7 +124,7 @@ final scaffoldKey       = GlobalKey<ScaffoldState>();
                   child: Text('Editar'),
                   
                   textColor: Colors.deepPurple,
-                  onPressed: () => Navigator.pushNamed(context, 'clientes', arguments: _clientesForDisplay[index])
+                  onPressed: () => Navigator.pushNamed(context, 'clienteEdit', arguments: _clientesForDisplay[index])
                               .then((value) => setState((){})),
                   )
               ]

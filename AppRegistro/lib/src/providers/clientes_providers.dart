@@ -18,7 +18,7 @@ Future<bool> createCliente( ClientModel cliente) async{
  
   final resp= await  http.post(url, body: clientModelToJson(cliente));
 
-   final decodeData = json.decode(resp.body);
+  final decodeData = json.decode(resp.body);
 
   print(decodeData);
 
@@ -101,7 +101,12 @@ Future<List<ClientModelB>> buscarCliente2(String ci, Registro registro)async{
   });
   
   print(clientes);
+  if(clientes.length==0){
+  print('Error');
+  }
   crearRegistro(registro,clientes[0].id);
+
+  
 
   return clientes;
 

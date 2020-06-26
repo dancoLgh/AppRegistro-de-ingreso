@@ -1,5 +1,6 @@
 import 'package:AppRegistro/src/bloc/provider.dart';
 import 'package:AppRegistro/src/pages/cliente_page.dart';
+import 'package:AppRegistro/src/pages/cliente_page_edit.dart';
 import 'package:AppRegistro/src/pages/home_page.dart';
 import 'package:AppRegistro/src/pages/login_page.dart';
 import 'package:flutter/material.dart';
@@ -21,6 +22,8 @@ class MyApp extends StatelessWidget {
           'login'    : ( BuildContext context ) => LoginPage(),
           'home'     : ( BuildContext context ) => HomePage(),
           'clientes' :(BuildContext context) => ClientePage(),
+          'clienteEdit' :(BuildContext context) => ClientePageEdit(),
+
         },
         theme: ThemeData(
           primaryColor: Colors.deepPurple,
